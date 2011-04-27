@@ -1,6 +1,12 @@
 Exoskeleton
 ===========
 
+**Authors:**
+
+* Maciej Adwent [@Maciek416](http://twitter.com/Maciek416)
+* Corban Brook [@corban](http://twitter.com/corban)
+
+
 To initialize Exoskeleton, call:
 
     Exoskeleton.init(Backbone);
